@@ -1,2 +1,6 @@
 set_env.sh
 udagram-api.postman_collection.json
+*secret.yaml
+*configmap.yaml
+*deployment.yaml
+*service.yaml
